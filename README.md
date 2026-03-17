@@ -5,9 +5,13 @@
 [![Career Break](https://img.shields.io/badge/currently-career%20break-6C757D?style=for-the-badge)](https://github.com/diomonogatari)
 [![Godot](https://img.shields.io/badge/developing-a%20gardening%20game-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
-Senior backend engineer from Portugal with **9+ years** building production systems that have to behave when things get weird.
+Senior backend engineer from Portugal with **9+ years** building production systems.
 
 These days I'm on a **career break**, exploring **game development in Godot** and prototyping a gardening game 🌱
+
+| GitHub Stats | Most Used Languages |
+| --- | --- |
+| [![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diomonogatari&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diomonogatari&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## whoami
 
@@ -18,29 +22,10 @@ These days I'm on a **career break**, exploring **game development in Godot** an
 
 ## featured things people can use
 
-### [stash-mcp](https://github.com/diomonogatari/stash-mcp)
+[![stash-mcp](https://github-readme-stats.vercel.app/api/pin/?username=diomonogatari&repo=stash-mcp&theme=catppuccin_mocha)](https://github.com/diomonogatari/stash-mcp)
+[![mcp-server-factory](https://github-readme-stats.vercel.app/api/pin/?username=diomonogatari&repo=mcp-server-factory&theme=catppuccin_mocha)](https://github.com/diomonogatari/mcp-server-factory)
 
-[![GitHub stars](https://img.shields.io/github/stars/diomonogatari/stash-mcp?style=flat-square)](https://github.com/diomonogatari/stash-mcp)
-[![GitHub forks](https://img.shields.io/github/forks/diomonogatari/stash-mcp?style=flat-square)](https://github.com/diomonogatari/stash-mcp)
-[![GitHub last commit](https://img.shields.io/github/last-commit/diomonogatari/stash-mcp?style=flat-square)](https://github.com/diomonogatari/stash-mcp)
-
-MCP server for Bitbucket Server / Stash. Built so LLM tools can query repositories, pull requests, comments, and code with proper context instead of pure guesswork. Basically: fewer hallucinations, more signal.
-
-### [mcp-server-factory](https://github.com/diomonogatari/mcp-server-factory)
-
-[![GitHub stars](https://img.shields.io/github/stars/diomonogatari/mcp-server-factory?style=flat-square)](https://github.com/diomonogatari/mcp-server-factory)
-[![GitHub forks](https://img.shields.io/github/forks/diomonogatari/mcp-server-factory?style=flat-square)](https://github.com/diomonogatari/mcp-server-factory)
-[![GitHub last commit](https://img.shields.io/github/last-commit/diomonogatari/mcp-server-factory?style=flat-square)](https://github.com/diomonogatari/mcp-server-factory)
-
-An in-memory test harness for .NET MCP servers. If `WebApplicationFactory<T>` and protocol testing had a practical child, this would be it.
-
-### [Bitbucket.Net](https://github.com/diomonogatari/Bitbucket.Net)
-
-[![GitHub stars](https://img.shields.io/github/stars/diomonogatari/Bitbucket.Net?style=flat-square)](https://github.com/diomonogatari/Bitbucket.Net)
-[![GitHub forks](https://img.shields.io/github/forks/diomonogatari/Bitbucket.Net?style=flat-square)](https://github.com/diomonogatari/Bitbucket.Net)
-[![GitHub last commit](https://img.shields.io/github/last-commit/diomonogatari/Bitbucket.Net?style=flat-square)](https://github.com/diomonogatari/Bitbucket.Net)
-
-C# client for Atlassian Bitbucket Server. Async-first, type-safe, and made for the kind of backend work where “just hit the API” somehow becomes a whole career.
+[![Bitbucket.Net](https://github-readme-stats.vercel.app/api/pin/?username=diomonogatari&repo=Bitbucket.Net&theme=catppuccin_mocha)](https://github.com/diomonogatari/Bitbucket.Net)
 
 ## toolbox
 
