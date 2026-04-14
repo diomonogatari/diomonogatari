@@ -11,7 +11,7 @@ These days I'm on a **career break**, exploring **game development in Godot** an
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
-| [![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diomonogatari&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diomonogatari&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Diogo's GitHub stats](./profile/stats.svg) | ![Top Langs](./profile/top-langs.svg) |
 
 ## whoami
 
@@ -22,10 +22,10 @@ These days I'm on a **career break**, exploring **game development in Godot** an
 
 ## featured things people can use
 
-[![stash-mcp](https://github-readme-stats.vercel.app/api/pin/?username=diomonogatari&repo=stash-mcp&theme=catppuccin_mocha)](https://github.com/diomonogatari/stash-mcp)
-[![mcp-server-factory](https://github-readme-stats.vercel.app/api/pin/?username=diomonogatari&repo=mcp-server-factory&theme=catppuccin_mocha)](https://github.com/diomonogatari/mcp-server-factory)
+[![stash-mcp](./profile/pin-stash-mcp.svg)](https://github.com/diomonogatari/stash-mcp)
+[![mcp-server-factory](./profile/pin-mcp-server-factory.svg)](https://github.com/diomonogatari/mcp-server-factory)
 
-[![Bitbucket.Net](https://github-readme-stats.vercel.app/api/pin/?username=diomonogatari&repo=Bitbucket.Net&theme=catppuccin_mocha)](https://github.com/diomonogatari/Bitbucket.Net)
+[![Bitbucket.Net](./profile/pin-bitbucket-net.svg)](https://github.com/diomonogatari/Bitbucket.Net)
 
 ## toolbox
 
