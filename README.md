@@ -1,13 +1,11 @@
 # hey, I'm Dio 👋
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-diomonogatari-FF5E8A?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/diomonogatari)  
 [![Backend Engineer](https://img.shields.io/badge/backend-engineer-0A0A0A?style=for-the-badge)](https://github.com/diomonogatari)
 [![.NET](https://img.shields.io/badge/.NET-distributed%20systems-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/diomonogatari)  
-[![Career Break](https://img.shields.io/badge/currently-career%20break-6C757D?style=for-the-badge)](https://github.com/diomonogatari)
-[![Godot](https://img.shields.io/badge/developing-a%20gardening%20game-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
+[![Jam](https://img.shields.io/badge/jamming-IGC%20Collab%20'26-478CBF?style=for-the-badge&logo=itch.io)](https://itch.io/jam/indie-game-clinic-collab-jam-26)
 
 Senior backend engineer from Portugal with **9+ years** building production systems.
-
-These days I'm on a **career break**, exploring **game development in Godot** and prototyping a gardening game 🌱
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
@@ -24,7 +22,6 @@ These days I'm on a **career break**, exploring **game development in Godot** an
 
 [![stash-mcp](./profile/pin-stash-mcp.svg)](https://github.com/diomonogatari/stash-mcp)
 [![mcp-server-factory](./profile/pin-mcp-server-factory.svg)](https://github.com/diomonogatari/mcp-server-factory)
-
 [![Bitbucket.Net](./profile/pin-bitbucket-net.svg)](https://github.com/diomonogatari/Bitbucket.Net)
 
 ## toolbox
@@ -75,11 +72,3 @@ These days I'm on a **career break**, exploring **game development in Godot** an
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square)
-
-## support
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-diomonogatari-FF5E8A?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/diomonogatari)
-
----
-
-*The interesting bits are the distributed systems, developer tooling, and the fact that I'm currently seeing how much gardening game energy I can squeeze out of Godot.*
