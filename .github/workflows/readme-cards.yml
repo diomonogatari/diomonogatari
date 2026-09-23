@@ -54,6 +54,14 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=Bitbucket.Net&theme=catppuccin_mocha
           path: profile/pin-bitbucket-net.svg
           token: ${{ secrets.PAT }}
+      
+      - name: Generate pin card (MCP Guard)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=mcp-guard&theme=catppuccin_mocha
+          path: profile/pin-mcp-guard.svg
+          token: ${{ secrets.PAT }}
 
       - name: Commit cards
         run: |
