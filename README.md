@@ -1,11 +1,12 @@
 # hey, I'm Dio 👋
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-diomonogatari-FF5E8A?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/diomonogatari)  
-[![Backend Engineer](https://img.shields.io/badge/backend-engineer-0A0A0A?style=for-the-badge)](https://github.com/diomonogatari)
-[![.NET](https://img.shields.io/badge/.NET-distributed%20systems-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/diomonogatari)  
-[![Jam](https://img.shields.io/badge/profile-478CBF?style=for-the-badge&logo=itch.io)]([diomonogatari](https://diomonogatari.itch.io/))
+[![Software Engineer](https://img.shields.io/badge/software-engineer-0A0A0A?style=for-the-badge)](https://github.com/diomonogatari)
+[![Game Programming](https://img.shields.io/badge/game-programming-478CBF?style=for-the-badge&logo=itchdotio&logoColor=white)](https://diomonogatari.itch.io/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-diomonogatari-FF5E8A?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/diomonogatari)
 
-Senior backend engineer from Portugal with **9+ years** building production systems.
+Senior software engineer from Portugal with **9+ years** building production systems, primarily with C# and .NET.
+
+Currently transitioning into **game programming**, working with Godot and C# while building games and experimenting with gameplay systems, rendering, shaders, and other engine-side problems.
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
@@ -13,16 +14,28 @@ Senior backend engineer from Portugal with **9+ years** building production syst
 
 ## whoami
 
-- spent the last decade building and operating **event-driven .NET systems**, messaging-heavy services, internal platforms, and tooling
+- senior software engineer with **9+ years** of professional experience, mostly in C# and .NET
+- currently moving into **game development**, building games with Godot and C# and expanding into gameplay, rendering, shaders, and game systems
+- shipped a couple of game jam projects and I'm currently working on a larger personal horror game
+- spent most of my professional career building and operating **event-driven .NET systems**, messaging-heavy services, internal platforms, and tooling
 - worked across **travel/customs integrations**, **finance & loan-management platforms**, **telecom/contact-center tooling**, and earlier **Android/public-sector apps**
-- care a lot about **reliability**, **observability**, and architecture that survives contact with production
+- care a lot about **reliability**, **observability**, debugging, and architecture that survives contact with production
 - some of my best professional work lives in private company repos, so this profile focuses on the parts I can actually show in public
+
+## game dev
+
+I'm currently building and publishing games under **diomonogatari**.
+
+[![itch.io](https://img.shields.io/badge/play%20my%20games-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://diomonogatari.itch.io/)
+
+Current interests include **game systems, rendering, shaders, and technical experimentation**.
 
 ## featured things people can use
 
 [![stash-mcp](./profile/pin-stash-mcp.svg)](https://github.com/diomonogatari/stash-mcp)
-[![mcp-server-factory](./profile/pin-mcp-server-factory.svg)](https://github.com/diomonogatari/mcp-server-factory)
+[![mcp-server-factory](./profile/pin-mcp-server-factory.svg)](https://github.com/diomonogatari/mcp-server-factory)  
 [![Bitbucket.Net](./profile/pin-bitbucket-net.svg)](https://github.com/diomonogatari/Bitbucket.Net)
+[![mcp-guard](./profile/pin-mcp-guard.svg)](https://github.com/diomonogatari/mcp-guard)
 
 ## toolbox
 
@@ -33,6 +46,11 @@ Senior backend engineer from Portugal with **9+ years** building production syst
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### game development
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ### backend & web
 
@@ -59,12 +77,10 @@ Senior backend engineer from Portugal with **9+ years** building production syst
 ![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-### frontend, mobile & game dev
+### frontend & mobile
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ### tooling & practices
 
