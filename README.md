@@ -3,7 +3,7 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-diomonogatari-FF5E8A?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/diomonogatari)  
 [![Backend Engineer](https://img.shields.io/badge/backend-engineer-0A0A0A?style=for-the-badge)](https://github.com/diomonogatari)
 [![.NET](https://img.shields.io/badge/.NET-distributed%20systems-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/diomonogatari)  
-[![Jam](https://img.shields.io/badge/profile-478CBF?style=for-the-badge&logo=itch.io)]([https://itch.io/jam/indie-game-clinic-collab-jam-26](https://diomonogatari.itch.io/))
+[![Jam](https://img.shields.io/badge/profile-478CBF?style=for-the-badge&logo=itch.io)]([diomonogatari](https://diomonogatari.itch.io/))
 
 Senior backend engineer from Portugal with **9+ years** building production systems.
 
